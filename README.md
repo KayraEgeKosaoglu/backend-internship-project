@@ -15,3 +15,6 @@ asynchronous communication and containerization.
 - Docker Compose
 - gRPC
 - Git and GitHub
+- ## Learning Progress
+- Development environment setup completed.
+- Git and GitHub configuration completed.
